@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "316370450524",
+    "project_id": "thedot-send",
+    "storage_bucket": "thedot-send.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316370450524:android:9178d74acbb5c9e9b88e99",
+        "android_client_info": {
+          "package_name": "com.thedotsend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316370450524-t75271nah5b8pd88stmkhduar7cftpqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thedotsend",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "316370450524-4bcjh5gqi79e0ibg1sjmt762f0ggp43o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA1PDxHQfGfS_oBJCOMh_g1RkpLYg2Lnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316370450524-4bcjh5gqi79e0ibg1sjmt762f0ggp43o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
